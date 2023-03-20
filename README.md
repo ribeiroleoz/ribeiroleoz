@@ -1,4 +1,4 @@
-### E aí👋
+### hello there 👋
 <div>
 <a href="https://github.com/ribeiroleoz">
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&langs_count=7&theme=dracula"/> -->
