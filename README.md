@@ -10,8 +10,7 @@
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
-![Snake animation](https://github.com/ribeiroleoz/ribeiroleoz/blob/output/github-contribution-grid-snake.svg)
-  
+<!-- ![Snake animation](https://github.com/ribeiroleoz/ribeiroleoz/blob/output/github-contribution-grid-snake.svg) -->
 <!-- **ribeiroleoz/ribeiroleoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started: -->
 
