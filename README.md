@@ -3,7 +3,7 @@
 <a href="https://github.com/ribeiroleoz">
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&langs_count=7&theme=transparent"/> -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiroleoz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
-<img src="https://static.appgeek.com.br/imagens/dino-non-birthday-version-0.gif"/>
+<img height="180em" src="https://static.appgeek.com.br/imagens/dino-non-birthday-version-0.gif"/>
 </div>
 
 <!-- <picture>
