@@ -1,6 +1,8 @@
 <div>
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&langs_count=7&theme=transparent"/> -->
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ribeiroleoz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/><br> -->
+ ![dino-non-birthday-version-0](https://github.com/ribeiroleoz/ribeiroleoz/assets/89111205/336658f7-2f68-423b-bc8f-c0b950fd6080)
+
 <h2>technologies</h2>
 <h4>frontend</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
