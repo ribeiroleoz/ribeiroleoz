@@ -1,10 +1,10 @@
 <div>
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&langs_count=7&theme=transparent"/> -->
-<span style="display: flex;">
+<div style="display: flex;">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ribeiroleoz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
  
 ![dino-non-birthday-version-0](https://github.com/ribeiroleoz/ribeiroleoz/assets/89111205/21c2ddc8-51cd-4e39-8269-3b178406e021)
-</span>
+</div>
 
 <h2>technologies</h2>
 <h4>frontend</h4>
