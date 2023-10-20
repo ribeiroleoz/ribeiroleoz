@@ -1,9 +1,9 @@
 <div>
 <!--  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&langs_count=7&theme=transparent"/> -->
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ribeiroleoz&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ribeiroleoz&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&theme=vue)
 
 <h2>stacks</h2>
 <h4>frontend</h4>
