@@ -3,7 +3,7 @@
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ribeiroleoz&show_icons=true&theme=rose&include_all_commits=true&count_private=true"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&theme=rose)
 
 <h2>stacks</h2>
 <h4>frontend</h4>
