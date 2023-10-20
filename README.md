@@ -4,9 +4,6 @@
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ribeiroleoz&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact)
- 
-![dino-non-birthday-version-0](https://github.com/ribeiroleoz/ribeiroleoz/assets/89111205/21c2ddc8-51cd-4e39-8269-3b178406e021)
-
 
 <h2>stacks</h2>
 <h4>frontend</h4>
