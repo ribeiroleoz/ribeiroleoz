@@ -5,6 +5,10 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&theme=vue)
 
+<h4>stacks</h4>
+<h2>sim</h2>
+
+<!--
 <h2>stacks</h2>
 <h4>frontend</h4>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
@@ -25,3 +29,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px"/>
 </div>
+-->
