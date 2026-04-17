@@ -5,8 +5,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiroleoz&layout=compact&theme=vue)
 
-<h4>stacks</h4>
-<h2>sim</h2>
+<h2>stacks</h2>
+<h4>sim</h4>
 
 <!--
 <h2>stacks</h2>
